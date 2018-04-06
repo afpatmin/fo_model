@@ -1,7 +1,7 @@
 library fo_model;
 
 class FoModel {
-  FoModel([this.id = null]);
+  FoModel();
 
   Map<String, dynamic> toJson() => {'id':id.toString()};
 
