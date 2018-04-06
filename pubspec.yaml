@@ -1,6 +1,6 @@
 name: fo_model
 description: A base class for models to be used with fo_components in data-table and select.
-version: 0.0.1
+version: 1.0.0
 
 environment:
-  sdk: '>=1.46.0 <2.0.0'
+  sdk: '>=2.0.0-dev.46.0 <2.0.0'
