@@ -3,4 +3,4 @@ description: A base class for models to be used with fo_components in data-table
 version: 1.0.0
 
 environment:
-  sdk: '>=2.0.0-dev.62.0 <2.0.0'
+  sdk: '>=2.0.0-dev.65.0 <2.0.0'
